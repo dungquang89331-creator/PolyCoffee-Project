@@ -1,2 +1,3 @@
-# PolyCoffee-Project
-Đây là nơi để đưa bài lên
+# Screenshots
+
+Đặt ảnh chụp giao diện PolyCoffee vào thư mục này.
